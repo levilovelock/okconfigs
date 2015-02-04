@@ -56,6 +56,7 @@ Red Potion 25 1 0
 Orange Potion 25 1 0
 White Potion 25 1 0
 Yellow potion 25 1 0
+Novice Potion 300 0 0
 
 ##### ARROWS #####
 # You may want to modify these if you're an archer/hunter

@@ -62,10 +62,11 @@
 
 #### AVOID
 
-Creamy 0 0 0 0
-Lost Lamb 0 0 0 0
-Octopus Leg 0 0 0 0
-Octopus 0 0 0 0
+Creamy 0 0 0
+Lost Lamb 0 0 0
+Octopus Leg 0 0 0
+Octopus 0 0 0
+Giant Octopus 0 0 0
 
 
 

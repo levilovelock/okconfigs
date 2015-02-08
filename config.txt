@@ -658,7 +658,7 @@ equipAuto {
 }
 
 useSelf_item Novice_Potion {
-	hp < 60
+	hp < 60%
 }
 
 ######## Autostorage/autosell ########

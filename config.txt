@@ -156,7 +156,7 @@ dcOnPlayer 0
 dcOnServerShutDown 0
 dcOnServerClose 0
 dcOnJobLevel
-dcOnLevel
+dcOnLevel 20
 
 follow 0
 followCheckLOS 0

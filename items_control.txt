@@ -51,6 +51,8 @@ Mace 0 0 1
 Clover 0 0 1
 Red Herb 0 0 1
 
+# DUMB Item
+Criatura Hair Coupon 0 0 0
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs

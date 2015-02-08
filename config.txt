@@ -5,8 +5,8 @@
 
 master International - iRO: Ymir/Yggdrasil/Valkyrie
 server 0
-username llovelock
-password oinofnso238f4n3kso
+username BOT_ACCOUNT_FIELD
+password BOT_PASSWORD_FIELD
 loginPinCode
 char 1
 

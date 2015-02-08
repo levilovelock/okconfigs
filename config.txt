@@ -8,7 +8,7 @@ server 0
 username BOT_ACCOUNT_FIELD
 password BOT_PASSWORD_FIELD
 loginPinCode
-char BOT_CHAR_SLOT
+char BOT_SLOT_FIELD
 
 # Poseidon Settings (http://wiki.openkore.com/index.php/PoseidonServer)
 # They must be the same as Query Server config in Poseidon.txt

@@ -42,10 +42,14 @@ all 0 1 0
 
 # SELL
 
+# Novice shit
 Jellopy 0 0 1
 Apple 0 0 1
 Knife 0 0 1
 Iron Ore 0 0 1
+Mace 0 0 1
+Clover 0 0 1
+Red Herb 0 0 1
 
 
 ##### HEAL/SUPPORT ITEMS #####

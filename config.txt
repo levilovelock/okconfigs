@@ -679,7 +679,7 @@ sellAuto_standpoint
 sellAuto_distance 5
 sellAuto_npc_steps s e
 
-storageAuto 1
+storageAuto 3
 storageAuto_npc izlude 128 148
 storageAuto_distance 5
 storageAuto_npc_type 1
@@ -687,10 +687,10 @@ storageAuto_npc_steps
 storageAuto_password
 storageEncryptKey
 storageAuto_keepOpen 0
-storageAuto_useChatCommand
+storageAuto_useChatCommand c r1 c r0 n
 storageAuto_notAfterDeath
-relogAfterStorage 0
-minStorageZeny 50
+relogAfterStorage 1
+minStorageZeny 500
 
 npcTimeResponse
 

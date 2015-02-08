@@ -40,6 +40,13 @@
 # All items not mentioned in this file will be automatically stored in storage.
 all 0 1 0
 
+# SELL
+
+Jellopy 0 0 1
+Apple 0 0 1
+Knife 0 0 1
+Iron Ore 0 0 1
+
 
 ##### HEAL/SUPPORT ITEMS #####
 # Adjust these to your needs

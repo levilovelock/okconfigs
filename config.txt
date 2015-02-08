@@ -673,9 +673,9 @@ buyAuto {
 	disabled 0
 }
 
-sellAuto 0
-sellAuto_npc
-sellAuto_standpoint
+sellAuto 1
+sellAuto_npc 128 158
+sellAuto_standpoint 125 158
 sellAuto_distance 5
 sellAuto_npc_steps s e
 

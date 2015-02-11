@@ -657,7 +657,7 @@ equipAuto {
 	manualAI 0
 }
 
-useSelf_item Novice_Potion {
+useSelf_item Novice Potion {
 	hp < 60%
 }
 
